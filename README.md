@@ -1,93 +1,93 @@
-# Project Title
+# Site Benderminds
 
-One Paragraph of the project description
+Um parágrafo da descrição do projeto
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+Apareceu inicialmente em
+[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). Mas a página não pode mais abrir, por isso a movi aqui.
 
-## Getting Started
+## Começando
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+Estas instruções lhe darão uma cópia do projeto instalado e funcionando em
+sua máquina local para fins de desenvolvimento e teste. Ver implantação
+para notas sobre a implantação do projeto em um sistema ativo.
 
-### Prerequisites
+### Pré-requisitos
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+Requisitos para o software e outras ferramentas para construir, testar e enviar
+- [Exemplo 1](https://www.example.com)
+- [Exemplo 2](https://www.example.com)
 
-### Installing
+### Instalando
 
-A step by step series of examples that tell you how to get a development
-environment running
+Uma série de exemplos passo a passo que informam como obter um desenvolvimento
+ambiente em execução
 
-Say what the step will be
+Diga qual será o passo
 
-    Give the example
+    Dê o exemplo
 
-And repeat
+E repita
 
-    until finished
+    até terminar
 
-End with an example of getting some data out of the system or using it
-for a little demo
+Termine com um exemplo de como obter alguns dados do sistema ou usá-los
+para uma pequena demonstração
 
-## Running the tests
+## Executando os testes
 
-Explain how to run the automated tests for this system
+Explicar como executar os testes automatizados para este sistema
 
-### Sample Tests
+### Testes de amostra
 
-Explain what these tests test and why
+Explique o que esses testes testam e por que
 
-    Give an example
+    Dê um exemplo
 
-### Style test
+### Teste de estilo
 
-Checks if the best practices and the right coding style has been used.
+Verifica se as melhores práticas e o estilo de codificação correto foram usados.
 
-    Give an example
+    Dê um exemplo
 
-## Deployment
+## Implantação
 
-Add additional notes to deploy this on a live system
+Adicione notas adicionais para implantar isso em um sistema ativo
 
-## Built With
+## Construído com
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+  - [Contributor Covenant](https://www.contributor-covenant.org/) - Usado
+    para o Código de Conduta
+  - [Creative Commons](https://creativecommons.org/) - Usado para escolher
+    a licença
 
-## Contributing
+## Contribuindo
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
+Leia [CONTRIBUTING.md](CONTRIBUTING.md) para obter detalhes sobre nosso código
+de conduta e o processo de envio de pull requests para nós.
 
-## Versioning
+## Versão
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+Usamos [Versão Semântica](http://semver.org/) para controle de versão. Para as versões
+disponível, veja as [tags neste
+repositório](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
-## Authors
+## Autores
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **Billie Thompson** - *Modelo README fornecido* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of
+Veja também a lista de
 [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+que participaram deste projeto.
 
-## License
+## Licença
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+Este projeto está licenciado sob o [CC0 1.0 Universal](LICENSE.md)
+Licença Creative Commons - consulte o arquivo [LICENSE.md](LICENSE.md) para
+detalhes
 
-## Acknowledgments
+## Agradecimentos
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
+  - Dica de chapéu para qualquer pessoa cujo código é usado
+  - Inspiração
   - etc
